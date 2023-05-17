@@ -7,9 +7,9 @@ const Counter = () => {
   
   
     const plus = () =>{
-      // setValue(value + 1)
+      // setValue(value + 1) 
       setTimeout(()=>{
-        console.log('button is CLICKED');
+        console.log('button is clicked');
   
           setValue((currentState )=>{
           return currentState + 1
