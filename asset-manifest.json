@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BoMar-Dev/usestate3.git/static/css/main.1bb647d4.css",
+    "main.js": "/BoMar-Dev/usestate3.git/static/js/main.9bd028b6.js",
+    "index.html": "/BoMar-Dev/usestate3.git/index.html",
+    "main.1bb647d4.css.map": "/BoMar-Dev/usestate3.git/static/css/main.1bb647d4.css.map",
+    "main.9bd028b6.js.map": "/BoMar-Dev/usestate3.git/static/js/main.9bd028b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bb647d4.css",
+    "static/js/main.9bd028b6.js"
+  ]
+}
