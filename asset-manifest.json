@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/BoMar-Dev/usestate3.git/static/css/main.1bb647d4.css",
-    "main.js": "/BoMar-Dev/usestate3.git/static/js/main.9bd028b6.js",
-    "index.html": "/BoMar-Dev/usestate3.git/index.html",
-    "main.1bb647d4.css.map": "/BoMar-Dev/usestate3.git/static/css/main.1bb647d4.css.map",
-    "main.9bd028b6.js.map": "/BoMar-Dev/usestate3.git/static/js/main.9bd028b6.js.map"
+    "main.css": "/usestate3/static/css/main.1bb647d4.css",
+    "main.js": "/usestate3/static/js/main.a85e9559.js",
+    "index.html": "/usestate3/index.html",
+    "main.1bb647d4.css.map": "/usestate3/static/css/main.1bb647d4.css.map",
+    "main.a85e9559.js.map": "/usestate3/static/js/main.a85e9559.js.map"
   },
   "entrypoints": [
     "static/css/main.1bb647d4.css",
-    "static/js/main.9bd028b6.js"
+    "static/js/main.a85e9559.js"
   ]
 }
