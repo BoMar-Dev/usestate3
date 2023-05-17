@@ -24,7 +24,7 @@ const Counter = () => {
   
     return (
       <div className="container">
-        <p> useState Counter  with  "setTimeout"  3sek</p>
+        <p> useState counter  with  "setTimeout"  3sek</p>
         <h1> count = <span>{value}</span> </h1>
         <button className="increas btn" onClick={plus}>Increas +</button>
         <button className="reset btn" onClick={reset}>RESET</button>
